@@ -10,10 +10,15 @@ This project uses a dataset of credit card transactions that are labeled as frau
 #Technologies Used
 
 • Python 3: Primary programming language used.
+
 • Pandas: For data manipulation and analysis.
+
 • NumPy: For numerical operations.
+
 • Scikit-Learn: For machine learning model development.
+
 • Matplotlib & Seaborn: For data visualization.
+
 • Jupyter Notebook: For interactive code development and testing.
 
 #Dataset
