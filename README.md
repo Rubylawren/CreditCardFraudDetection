@@ -35,9 +35,9 @@ This project can be used by data scientists and analysts to understand and explo
 Any recommendations on how to improve this model will be greatly appreciated.
 
 
-Contact
+# Contact
 
 For any questions or emquiries, please contact 
 akinboadelawrenceayo@gmail.com
 
-#Project Link: https://github.com/rubylawren/CreditCardFraudDetection
+# Project Link: https://github.com/rubylawren/CreditCardFraudDetection
